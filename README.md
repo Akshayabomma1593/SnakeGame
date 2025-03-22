@@ -115,7 +115,7 @@ The project is structured into multiple Java classes to handle different aspects
 1. Ensure you have **Java JDK 8+** installed.
 2. Clone this repository:
    
-    "git clone https://github.com/yourusername/snake-game.git"
+    "git clone https://github.com/Akshayabomma1593/snake-game.git"
   
 3. Navigate to the project folder:
    
